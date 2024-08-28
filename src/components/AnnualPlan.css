@@ -1,0 +1,20 @@
+.annual-price
+{
+    color: hsl(224, 23%, 55%);
+}
+
+.annual-plan
+{
+    background-color: hsl(225, 100%, 98%);
+    padding: 20px;
+}
+
+.annual-title
+{
+    font-weight: 900;
+}
+
+.annual
+{
+    margin: 0px;
+}

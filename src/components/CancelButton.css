@@ -1,0 +1,12 @@
+.cancel
+{
+    color: hsl(224, 23%, 55%);
+    text-decoration: none;
+    font-weight: 700;
+    padding: 12px;
+}
+
+.cancel:hover
+{
+    color: #000;
+}

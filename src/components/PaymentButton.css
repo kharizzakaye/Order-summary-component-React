@@ -1,0 +1,8 @@
+.payment
+{
+    font-weight: 700;
+    padding: 12px;
+    border-radius: 10px;
+    background-color: hsl(245, 75%, 52%);
+    border: none;
+}
